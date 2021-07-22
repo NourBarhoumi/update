@@ -1,0 +1,54 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+
+header {
+    display: flex;
+    justify-content: space-between;
+    background-color: white;
+    height: 80px;
+}
+
+header img {
+    width: 80px;
+    padding: 0 20px;
+}
+
+header ul {
+    list-style-type: none;
+    display: flex;
+    align-items: center;
+    margin: 0 20px;
+}
+
+header li {
+    padding: 0 60px;
+}
+header li a {
+    text-decoration: none;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: bold;
+    color: black;
+    font-size: 18px;
+}
+
+body {
+    background-color: rgb(243, 243, 243);
+    min-height: 100vh;
+
+}
+
+footer {
+    background-color: white;
+    margin-top: auto;
+}
+
+footer p {
+    justify-content: space-between;
+    text-align:center;
+    align-items: center;
+    padding: 20px;
+    font-family: 'Karla', sans-serif;
+    font-size: 16px;
+}

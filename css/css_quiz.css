@@ -1,0 +1,45 @@
+.quiz {
+    max-width: 700px;
+    background-color: white;
+    margin: 40px auto;
+    padding: 30px;
+    border-radius: 10px;
+}
+
+.quiz h3 {
+    font-size: 18px;
+    margin-bottom: 10px;
+    font-size: 25px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.quiz h4 {
+    font-size: 18px;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 15px;
+}
+
+.quiz p span {
+    font-weight: bolder;
+}
+
+.btn {
+    width: 120px;
+    height: 35px;
+    background-color: #e34c26;
+    border: #e34c26;
+    border-radius: 5px;
+    color: white;
+    font-size: 15px;
+    font-family: 'PT Sans', sans-serif;
+}
+
+.quiz p {
+    font-size: 16px;
+    font-family: 'Raleway', sans-serif;
+    margin-bottom: 10px;
+}
+
+.question-number {
+    margin-bottom: 20px;
+}

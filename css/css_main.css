@@ -1,0 +1,36 @@
+.list {
+    display: flex;
+    justify-content: space-between;
+    margin: 0 200px;
+    margin-bottom: 80px;
+}
+
+.inside img {
+    width: 250px;
+    padding: 20px 50px;
+}
+
+.inside {
+    background-color: white;
+    width: 30%;
+    border-radius: 20px;
+}
+
+.inside h2 {
+    align-items: center;
+    text-align: center;
+    padding-bottom: 50px;
+    font-size: 30px;
+    font-family: 'Noto Sans JP', sans-serif;
+
+}
+
+h1 {
+    margin: 80px 0;
+    justify-content: space-between;
+    text-align:center;
+    align-items: center;
+    font-family: 'Almarai', sans-serif;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: bolder;
+}
